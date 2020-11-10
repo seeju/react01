@@ -1,5 +1,5 @@
 import React from 'react';
-import './SideBar.css';
+
 
 export const SideBar = () => (
     <aside className="side-bar">

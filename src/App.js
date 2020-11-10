@@ -36,13 +36,15 @@ export class App extends Component {
           <NavMenu  />
           </div>
 
+          <div className="side-bar">
+          <SideBar />
+          </div>
+
           <div className="article">
           <Article items={this.state.Article}/>
           </div>
 
-          <div className="side-bar">
-          <SideBar />
-          </div>
+
         </main>
 
       </>

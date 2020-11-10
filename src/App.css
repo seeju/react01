@@ -6,3 +6,37 @@
   width: 80%;
   text-align: right;
 }
+
+.article {
+  width: 90%;
+
+}
+
+.main-menu {
+  list-style: none;
+}
+
+.main-menu li {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.nav-menu{
+  width: 100vw;
+  align-items: center;
+  
+  }
+  .nav-menu li {
+      display: inline-block;
+      margin-right: 15px;
+      margin-left: 15px;
+      text-align: center;
+  
+  }
+
+  .side-bar {
+    float: right;
+    height: auto;
+    width: auto;
+  }
+  

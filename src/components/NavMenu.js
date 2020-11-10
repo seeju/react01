@@ -1,5 +1,5 @@
 import React from 'react';
-import './NavMenu.css';
+
 
 export const NavMenu = () => (
     <ul className="nav-menu">

@@ -1,5 +1,5 @@
 import React from 'react';
-import './MainMenu.css';
+
 
 export const MainMenu = () => (
     <ul className="main-menu">
